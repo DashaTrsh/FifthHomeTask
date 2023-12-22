@@ -1,3 +1,5 @@
+import ru.netology.services.MonthCalculationService;
+
 public class Main {
     public static void main(String[] args) {
         MonthCalculationService service = new MonthCalculationService();
